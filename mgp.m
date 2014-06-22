@@ -17,7 +17,7 @@
 % approximate posterior is derived using he "MGP" approximation
 % described in
 %
-%   Garnett, R., Osborne, M., and Hennig, P. Active Learning of Linear
+%   Garnett, R., Osborne, M. A., and Hennig, P. Active Learning of Linear
 %   Embeddings for Gaussian Processes. (2014). 30th Conference on
 %   Uncertainty in Artificial Intelligence (UAI 2014).
 %
